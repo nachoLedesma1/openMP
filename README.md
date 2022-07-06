@@ -1,0 +1,2 @@
+# openMP
+Esto es openMP
